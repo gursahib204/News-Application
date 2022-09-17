@@ -1,6 +1,6 @@
 # News-Application
 build using REST API 
-fething the data through API 
+fetching the data through API 
 all latest news 
 Contains different fragments 
 and use the web view to display news in different fragment 
