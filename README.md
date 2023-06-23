@@ -5,11 +5,17 @@ all latest news
 Contains different fragments 
 and use the web view to display news in different fragment 
 
-SCREENSHOTS
+<img src="https://github.com/gursahib204/News-Application/assets/105225210/dcf10437-1306-4f8f-99a1-afbc8304002b" 
+     width="350" 
+     height="500" />
+     <img src="https://github.com/gursahib204/News-Application/assets/105225210/3d65633c-9c3f-4930-abe6-c6ece44d8ba2" 
+     width="350" 
+     height="500" />
+     <img src="https://github.com/gursahib204/News-Application/assets/105225210/1e40e5d9-863f-4e8b-bf01-b8dba21b593d" 
+     width="350" 
+     height="500" />
+     <img src="https://github.com/gursahib204/News-Application/assets/105225210/1b9d4cb3-ddb0-458d-af7f-4750cc605a70" 
+     width="350" 
+     height="500" />
 
-![Screenshot_1663244458](https://user-images.githubusercontent.com/105225210/190402573-ff6d659a-826e-46e8-9479-755f8cfffa74.png)
-![Screenshot_1663244513](https://user-images.githubusercontent.com/105225210/190402666-83417f74-a4c8-4cc4-9451-90da65f051cf.png)
-![Screenshot_1663244481](https://user-images.githubusercontent.com/105225210/190402756-edabc4a3-42f5-4c82-bced-e483a49e1f24.png)
-
-![Screenshot_1663244443](https://user-images.githubusercontent.com/105225210/190402818-6aacb957-5361-47bd-b8bd-bb34369cbad2.png)
-
+     
